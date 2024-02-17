@@ -4,7 +4,7 @@
  * Plugin Name: Default Post Author
  * Plugin URI: https://www.monarchwp.com/plugins/default-post-author
  * Description: The easiest way to set default post author in your WordPress Site.
- * Version: 1.0
+ * Version: 1.0.1
  * Requires at least: 6.1
  * Requires PHP: 7.4
  * Author: MonarchWP

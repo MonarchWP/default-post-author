@@ -4,7 +4,7 @@ Tags: post author, default post author, wp post, posts
 Requires at least: 6.1
 Tested up to: 6.4.2
 Requires PHP: 7.4
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate Link: https://www.monarchwp.com/donate
@@ -64,6 +64,9 @@ Yes! It's compatible with both single sites and multisite.
 * Initial release
 
 == Changelog ==
+
+= 1.0.1 - 17-02-2024 =
+- Add: Github auto deploy action
 
 = 1.0 =
 * Initial release
