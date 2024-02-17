@@ -13,7 +13,7 @@ The easiest way to set default post author in your WordPress Site.
 
 == Description ==
 
-The "Default Post Author" plugin is a powerful tool designed to simplify the process of setting a default post author on your WordPress site. With this plugin, you can easily define a default author for all new posts, ensuring consistency and saving you valuable time.
+The Default Post Author plugin is a powerful tool designed to simplify the process of setting a default post author on your WordPress site. With this plugin, you can easily define a default author for all new posts, ensuring consistency and saving you valuable time.
 
 Setting up the plugin is quick and straightforward. Once installed and activated, you can navigate to the plugin settings page in your WordPress dashboard. Here, you will find a user-friendly interface that allows you to choose the default author from a list of existing users on your site.
 
