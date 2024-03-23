@@ -2,7 +2,7 @@
 Contributors: wpdelower, monarchwp23
 Tags: post author, default post author, wp post, posts
 Requires at least: 6.1
-Tested up to: 6.4.2
+Tested up to: 6.4.3
 Requires PHP: 7.4
 Stable tag: 1.1
 License: GPLv2 or later
