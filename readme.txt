@@ -9,9 +9,10 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate Link: https://www.monarchwp.com/donate
 
-== Description ==
 
 The easiest way to set default post author in your WordPress Site.
+
+== Description ==
 
 The Default Post Author plugin is a powerful tool designed to simplify the process of setting a default post author on your WordPress site. With this plugin, you can easily define a default author for all new posts, ensuring consistency and saving you valuable time.
 
