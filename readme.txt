@@ -2,9 +2,9 @@
 Contributors: wpdelower, monarchwp23
 Tags: post author, default post author, wp post, posts
 Requires at least: 6.1
-Tested up to: 6.4.3
+Tested up to: 6.5.2
 Requires PHP: 7.4
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate Link: https://www.monarchwp.com/donate
@@ -54,11 +54,25 @@ Settings > General
 
 Yes! It's compatible with both single sites and multisite.
 
+= How frequently is the “Default post author” plugin updated? =
+
+The plugin is actively maintained and updated regularly to ensure compatibility with the latest versions of WordPress and to address any potential issues.
+
+= Is there any customer support available? =
+
+Yes, in case you encounter any difficulties or have questions, the plugin’s support team is available to assist you and provide prompt and helpful responses.
+
+
 == Screenshots ==
 
 1. A general settings page where you can set the default post author option.
 
 == Upgrade Notice ==
+
+= 1.1.1 - (April 15, 2024) =
+- Bug Fix
+- Performance Update
+- Security Update
 
 = 1.1 - 23-03-2024 =
 - Performance Update
@@ -73,6 +87,11 @@ Yes! It's compatible with both single sites and multisite.
 * Initial release
 
 == Changelog ==
+
+= 1.1.1 - (April 15, 2024) =
+- Bug Fix
+- Performance Update
+- Security Update
 
 = 1.1 - 23-03-2024 =
 - Performance Update
