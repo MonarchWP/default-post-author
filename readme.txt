@@ -2,9 +2,9 @@
 Contributors: wpdelower, monarchwp23
 Tags: post author, default post author, wp post, posts
 Requires at least: 6.1
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate Link: https://www.monarchwp.com/donate
@@ -70,6 +70,11 @@ Yes, in case you encounter any difficulties or have questions, the plugin’s su
 
 == Upgrade Notice ==
 
+= 1.1.4 - (November 17, 2024) =
+- Security Update
+- Performance Update
+- WordPress 6.7 compatibility
+
 = 1.1.3 - (July 17, 2024) =
 - Security Update
 - Performance Update
@@ -96,6 +101,16 @@ Yes, in case you encounter any difficulties or have questions, the plugin’s su
 * Initial release
 
 == Changelog ==
+
+= 1.1.4 - (November 17, 2024) =
+- Security Update
+- Performance Update
+- WordPress 6.7 compatibility
+
+= 1.1.3 - (July 17, 2024) =
+- Security Update
+- Performance Update
+- WordPress 6.6 compatibility
 
 = 1.1.2 - (April 15, 2024) =
 - Security Update
